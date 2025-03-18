@@ -1,0 +1,8 @@
+# 忽略 Maven 编译输出
+target/
+
+# 忽略 VS Code 配置文件
+.vscode/
+
+# 忽略 MacOS 生成的系统文件
+.DS_Store
